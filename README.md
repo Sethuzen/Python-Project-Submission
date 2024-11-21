@@ -42,3 +42,7 @@ Project Flow
 
     Random Movie Suggestion:
         Provide a random movie suggestion from the filtered list.
+
+
+Screenshots Example_1 User Interaction Phase - Here the user has chosen the Crime Genre (no.7)
+![image](https://github.com/user-attachments/assets/6ac38d90-ae3d-4e8b-9e49-5ad45ce73c60)
