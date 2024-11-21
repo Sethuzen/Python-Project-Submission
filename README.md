@@ -7,7 +7,7 @@ Features
     Genre Selection: Display a list of available genres and allow the user to choose one.
     Optional Filters: Set optional filters for minimum rating and release year range.
     Movie Filtering: Filter movies based on the chosen genre and optional filters.
-    Random Movie Display: Display a random selection of movies that match the user's criteria.
+    Random Movie Display: Display a random selection of 10 movies that match the user's criteria.
     Random Movie Suggestion: Provide a single random movie suggestion from the filtered list.
 
 Data Sources
@@ -38,11 +38,15 @@ Project Flow
         Filter the movies based on the selected genre and optional filters (minimum rating and release year range).
 
     Display Random Movies:
-        Display a random selection of movies that match the user's criteria.
+        Display a random selection of 10 movies that match the user's criteria.
 
     Random Movie Suggestion:
         Provide a random movie suggestion from the filtered list.
 
 
-Screenshots Example_1 User Interaction Phase - Here the user has chosen the Crime Genre (no.7)
+Screenshots Example_1 Displaying all availabl genre and asking user to chose 1. Here Crime Genre is chosen (no.7)
 ![image](https://github.com/user-attachments/assets/6ac38d90-ae3d-4e8b-9e49-5ad45ce73c60)
+
+Screenshots Example_2 Optional User Choices of rating and year range along with the suggested movie list
+![image](https://github.com/user-attachments/assets/5c8dd562-ca13-40a5-845d-1638927b744e)
+
